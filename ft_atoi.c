@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cfiachet <cfiachet@student.42perpignan.    +#+  +:+       +#+        */
+/*   By:  <		   @student.42perpignan.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 13:12:16 by cfiachet          #+#    #+#             */
 /*   Updated: 2024/10/06 13:32:43 by cfiachet         ###   ########.fr       */
